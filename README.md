@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bergluis
 - 👀 I’m interested in new tecnologies
 - 🌱 I’m currently learning Progress and DataBase
-- 💞️ I’m to collaborate on iDBA Soluções - LHC Informática | Técnico em Informática
+- 💞️ I’m currently working on iDBA Soluções - LHC Informática | Técnico em Informática
 - 📫 How to reach me 🇧🇷
 
 <!---
