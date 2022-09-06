@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Bergluis
-- 👀 I’m interested in new tecnologies
-- 🌱 I’m currently learning Progress and DataBase
-- 💞️ I’m currently working on iDBA Soluções - LHC Informática | Técnico em Informática
-- 📫 How to reach me 🇧🇷
+<h2> Welcome to my life </h2>
 
-<!---
-Bergluis/Bergluis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/Bergluis">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Bergluis&count_private=true&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bergluis&theme=github_dark&hide_border=false&&layout=compact"/> 
+  </a>
+</div>
