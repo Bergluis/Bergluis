@@ -1,4 +1,8 @@
-<h2> I need you to US Army </h2>
+<h2> Bergluis's Profile </h2>
+- Técnico em Informática - IFSul.
+- Retornando ao TI.
+- Bootcamp DB Experience.
+- Sharing knoledge - iDBA.
 
 <div>
   <a href="https://github.com/Bergluis">
