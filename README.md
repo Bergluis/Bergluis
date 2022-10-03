@@ -2,7 +2,7 @@
 
 - Técnico em Informática IFSul.
 - Retornando ao TI.
-- Bootcamp DB Experience.
+- Net Learning 4GL/ABL.
 - Sharing knowledge - iDBA.
 
 <div>
