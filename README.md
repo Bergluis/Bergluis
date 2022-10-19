@@ -2,7 +2,7 @@
 
 - Técnico em Informática IFSul.
 - Retornando ao TI.
-- Net Learning 4GL/ABL.
+- Net Learning 4GL/ABL & Python.
 - Sharing knowledge - iDBA.
 
 <div>
